@@ -32,5 +32,5 @@ QuizIClick dibangun dengan PHP + css + javascript, persyaratan minimal:
 4. Jalankan URL sesuai nama folder tempat kamu meletakkannya
 - [http://localhost/QuizIClick](http://localhost/QuizIClick/)
 5. CATATAN
-Ubah dbConnection.php menjadi portnya:3306 (sesuaikan port masing-masing)
+- Ubah dbConnection.php menjadi portnya:3306 (sesuaikan port masing-masing)
 
